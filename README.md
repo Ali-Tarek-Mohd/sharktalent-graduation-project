@@ -16,6 +16,13 @@ The main idea behind SharkTalent is to reduce common problems found in freelance
 
 ---
 
+## Project Files
+
+- [View Final Report](docs/SharkTalent_Final_Report.pdf)
+- [Download Source Code](source-code/SharkTalent_Source_Code.zip)
+
+---
+
 ## Project Overview
 
 SharkTalent allows clients to post projects and receive proposals from freelancers. Freelancers can create profiles, apply to suitable projects, and be evaluated based on their skills, ratings, and project history.
@@ -211,7 +218,6 @@ A simple workflow of the system is:
 
 This project includes or may include the following documentation:
 
-- [View Final Report](docs/SharkTalent_Final_Report.pdf)
 - Project overview
 - Problem definition
 - Project objectives
