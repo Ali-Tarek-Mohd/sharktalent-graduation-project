@@ -211,6 +211,7 @@ A simple workflow of the system is:
 
 This project includes or may include the following documentation:
 
+- [View Final Report](docs/SharkTalent_Final_Report.pdf)
 - Project overview
 - Problem definition
 - Project objectives
